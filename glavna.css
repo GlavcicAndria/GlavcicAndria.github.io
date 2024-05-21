@@ -1,0 +1,29 @@
+body {
+    background-color: lavender;
+}
+
+.drugi{
+    border:2px solid black;
+    padding:5px;
+     background-color:mint;
+}
+
+.prvi {
+    border:2px solid black; 
+    padding:5px; 
+    background-color:gainsboro;
+}
+
+.treci {
+    border:2px solid black;
+     padding:5px; 
+     background-color:lightcyan
+}
+
+p {
+    text-align: justify;
+}
+
+h1,h4 {
+    text-align: center;
+}
